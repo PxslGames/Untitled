@@ -58,11 +58,11 @@ LICENSE          → License information
 
 ### 🔧 Recommended: Use the Installer
 
-<div align="center" style="background-color:#1a1a1a; padding:15px; border-radius:10px; border: 2px solid #404040;">
-<h3 style="color:#f0f0f0;">The Easiest Way</h3>
-<p style="color:#c0c0c0;">Download → Run the installer → Done ✅</p>
-<p style="color:#f0f0f0;"><strong>The installer handles everything automatically:</strong></p>
-<ul style="color:#c0c0c0; text-align:left; max-width:600px; margin:auto;">
+<div align="center">
+<h3>The Easiest Way</h3>
+<p>Download → Run the installer → Done ✅</p>
+<p><strong>The installer handles everything automatically:</strong></p>
+<ul">
 <li>Sets up Untitled in the correct location</li>
 <li>Installs all required dependencies</li>
 <li>Ensures the program runs smoothly on your system</li>
