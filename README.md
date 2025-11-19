@@ -67,7 +67,7 @@ LICENSE          → License information
 <li>Installs all required dependencies</li>
 <li>Ensures the program runs smoothly on your system</li>
 <li>Keeps things updated automatically</li>
-<li>You can find the installer [here](https://pxsl.dev/products/untitled/)</li>
+<li>You can find the installer <a href="https://pxsl.dev/products/untitled/">here</a></li>
 </ul>
 </div>
 
