@@ -113,6 +113,8 @@ Although this project was made by me, this would not be possible without the hel
 
 You can view all of the Credits in Untitled.
 
+---
+
 <div align="center">
 
 ### ⭐ If you like this project, consider starring the repo!
