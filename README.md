@@ -32,91 +32,72 @@ LICENSE          → License information
 <div align="center">
 <table>
 <tr>
-<td><strong>🎛 Config System</strong><br>Fully customizable themes, banner positions, menu layout, sound toggles, and more.</td>
-<td><strong>🌐 Network Tools</strong><br>Reveal IP, generate IPs, ping hosts, scan ports.</td>
+<td><strong>⚙️ Config</strong><br>Fully customizable themes, banner positions, menu layout, button sounds, and more.</td>
+<td><strong>🌐 Network</strong><br>A collection of Network-related modules.</td>
 </tr>
 <tr>
-<td><strong>🎉 Fun Utilities</strong><br>Donut animation, random number generator, Skidalyser, dad jokes.</td>
-<td><strong>🔐 Security Tools</strong><br>Password generator, password checker, BCrypt hashing/verifying, generic hash generator.</td>
+<td><strong>🎉 Fun</strong><br>Random fun modules which otherwise are basically useless.</td>
+<td><strong>🔐 Security Tools</strong><br>Modules related to passwords and encryption.</td>
 </tr>
 <tr>
-<td><strong>💻 Development</strong><br>Built‑in Python executor for quick scripting.</td>
-<td><strong>🕵️ OSINT Toolkit</strong><br>IP geolocation, subdomain finder, WHOIS lookup, phone lookup.</td>
+<td><strong>💻 Development</strong><br>Modules designed to help with software development.</td>
+<td><strong>🕵️ OSINT Toolkit</strong><br>Open-Sourced Intelligence Modules.</td>
 </tr>
 <tr>
-<td><strong🔌 Plugin System</strong><br>Install or remove Python plugin modules directly from the app.</td>
-<td><strong>🔊 Audio Feedback</strong><br>Button sound system with customizable sounds.</td>
+<td><strong>🔌 Plugin System</strong><br>A complete plugins system, where you can install community-made plugins, straight into Untitled.</td>
+<td><strong>🚀 Auto-Updating</strong><br>It's a pain to install the new version every update, so just don't! Untitled will automatically update itself!</td>
 </tr>
 </table>
 </div>
 
-> 💬 *Untitled is packed with features, and more are added over time — no module counts listed because that's a pain to update every stupidod update.*
+> 💬 *Untitled is packed with features, and more are added over time - no module counts listed because that's a pain to update every stupidod update.*
 
 ---
 
 ## <div align="center">📥 Installation</div>
 
-### 🔧 Using the Installer
+### 🔧 Recommended: Use the Installer
 
-```bash
-download → run the installer → done
-```
-
-The installer lives in the `Installer/` folder and handles everything automatically.
-
-### 🖥 Manual Install (Advanced)
-
-Clone the repo:
-
-```bash
-git clone https://github.com/yourname/Untitled.git
-```
-
-Run the main program:
-
-```bash
-python Untitled/main.py
-```
+<div align="center" style="background-color:#1a1a1a; padding:15px; border-radius:10px; border: 2px solid #404040;">
+<h3 style="color:#f0f0f0;">The Easiest Way</h3>
+<p style="color:#c0c0c0;">Download → Run the installer → Done ✅</p>
+<p style="color:#f0f0f0;"><strong>The installer handles everything automatically:</strong></p>
+<ul style="color:#c0c0c0; text-align:left; max-width:600px; margin:auto;">
+<li>Sets up Untitled in the correct location</li>
+<li>Installs all required dependencies</li>
+<li>Ensures the program runs smoothly on your system</li>
+<li>Keeps things updated automatically</li>
+</ul>
+</div>
 
 ---
 
-## <div align="center">🖼 UI Elements (ASCII Banners)</div>
+### 🖥 Advanced: Manual Install (For Coders Only)
 
-<details>
-<summary><strong>Click to view banners</strong></summary>
-<br>
+> ⚠️ <strong>Only use this if you know what you're doing!</strong>  
+> Manual installation may break the program if dependencies aren't installed correctly.
 
-### Left Banner
-
-```
-_   _       _   _ _   _          _
-| | | |_ __ | |_(_) |_| | ___  __| |
-| | | | '_ \| __| | __| |/ _ \/ _` |
-| |_| | | | | |_| | |_| |  __/ (_| |
- \___/|_| |_|\__|_|\__|_|\___|\__,_|
+Clone the repo:
+```bash
+git clone https://github.com/PxslGames/Untitled.git
 ```
 
-### Center Banner
-
-```
-                                           _   _       _   _ _   _          _
-                                          | | | |_ __ | |_(_) |_| | ___  __| |
-                                          | | | | '_ \| __| | __| |/ _ \/ _` |
-                                          | |_| | | | | |_| | |_| |  __/ (_| |
-                                           \___/|_| |_|\__|_|\__|_|\___|\__,_|
+Navigate to the main program:
+```bash
+cd Untitled
 ```
 
-### Right Banner
-
-```
-                                                                                     _   _       _   _ _   _          _
-                                                                                    | | | |_ __ | |_(_) |_| | ___  __| |
-                                                                                    | | | | '_ \| __| | __| |/ _ \/ _` |
-                                                                                    | |_| | | | | |_| | |_| |  __/ (_| |
-                                                                                     \___/|_| |_|\__|_|\__|_|\___|\__,_|
+Install the required library - **Untitled will do the rest**
+```bash
+pip install requests
 ```
 
-</details>
+Run the program
+```bash
+python untitled.py
+```
+
+> 💬 Manual installation is **not recommended** for general users. Use the installer unless you are comfortable with Python and command-line environments.
 
 ---
 
@@ -125,6 +106,12 @@ _   _       _   _ _   _          _
 Licensed under the terms specified in the `LICENSE` file.
 
 ---
+
+## <div align="center">👥 Credits</div>
+
+Although this project was made by me, this would not be possible without the help from **lots** of people!
+
+You can view all of the Credits in Untitled.
 
 <div align="center">
 
