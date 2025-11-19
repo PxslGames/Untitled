@@ -1,4 +1,11 @@
 # Untitled
 A console application that does more than it should.
 
-<img width="1483" height="762" alt="image" src="https://github.com/user-attachments/assets/a544de07-ba41-4d64-a90c-306e9299e4c7" />
+---
+
+# About
+**Untitled** is a multi-use, console-based application, made to be the best application of it's kind, whilst being **100% free** and **open-sourced**.
+
+This was made by one solo-developer - ME! Although, LOTS of people helped to make this as good as it is today, this would not be possible without them!
+
+---
