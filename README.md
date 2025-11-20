@@ -4,6 +4,8 @@
 
 <h3><em>A console application that does more than it should.</em></h3>
 
+<h5><em>Status: Unreleased</em></h5>
+
 <br>
 
 <img src="https://img.shields.io/github/v/release/PxslGames/Untitled?style=for-the-badge&labelColor=%23000000&color=%23404040" />
