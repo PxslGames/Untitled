@@ -4,6 +4,8 @@
 
 <h3><em>A console application that does more than it should.</em></h3>
 
+<h5><em>Status: Unreleased</em></h5>
+
 <br>
 
 <img src="https://img.shields.io/github/v/release/PxslGames/Untitled?style=for-the-badge&labelColor=%23000000&color=%23404040" />
@@ -67,6 +69,7 @@ LICENSE          → License information
 <li>Installs all required dependencies</li>
 <li>Ensures the program runs smoothly on your system</li>
 <li>Keeps things updated automatically</li>
+<li>You can find the installer <a href="https://pxsl.dev/products/untitled/">here</a></li>
 </ul>
 </div>
 
@@ -112,6 +115,8 @@ Licensed under the terms specified in the `LICENSE` file.
 Although this project was made by me, this would not be possible without the help from **lots** of people!
 
 You can view all of the Credits in Untitled.
+
+---
 
 <div align="center">
 
