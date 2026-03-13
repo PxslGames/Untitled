@@ -62,7 +62,7 @@ LICENSE          → License information
 <h3>The Easiest Way</h3>
 <p>Download → Run the installer → Done ✅</p>
 <p><strong>The installer handles everything automatically:</strong></p>
-<ul">
+<ul">3
 <li>Sets up Untitled in the correct location</li>
 <li>Installs all required dependencies</li>
 <li>Ensures the program runs smoothly on your system</li>
